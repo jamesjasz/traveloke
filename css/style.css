@@ -1,0 +1,19 @@
+#tableContainer-1 {
+  height: 100%;
+  width: 100%;
+  display: table;
+}
+#tableContainer-2 {
+  vertical-align: middle;
+  display: table-cell;
+  height: 100%;
+}
+#myTable {
+  margin: 0 auto;
+}
+
+.hotel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

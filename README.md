@@ -1,3 +1,3 @@
 # traveloke
-4th Semester Project (PHP & MySQL)
-Without template
+4th semester project (PHP & MySQL)
+without template
